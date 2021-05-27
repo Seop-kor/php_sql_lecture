@@ -1,3 +1,3 @@
 <?php
-$dbcon = mysqli_connect('localhost', 'root', '', 'test');
+$dbcon = mysqli_connect('', '', '', '');
 ?>
